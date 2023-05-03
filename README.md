@@ -1,1 +1,3 @@
 # NLP-Project-and-Documentation
+
+Some of my project and documentation about NLP...
